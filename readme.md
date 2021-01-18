@@ -6,6 +6,4 @@ Full-Stack Developer and Electrical Engineer. I'm interested in decentralized fi
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=returndiego&layout=compact&langs_count=4)
 
-Most used: Next.js/React, MongoDB, TailwindCSS, TypeScript, JavaScript, Express.js, Node.js, Bash/Shell
-
 I enjoy running Lighthouse on my websites and seeing the fireworks.
